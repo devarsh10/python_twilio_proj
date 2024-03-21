@@ -1,0 +1,36 @@
+{
+    "success": {
+      "total": 4,
+      "assignments": [
+        {
+          "question": "Create a Jenkins pipeline for CI/CD",
+          "date": "2024-03-16",
+          "title": "DevOps Task",
+          "id": "1"
+        },
+        {
+          "question": "Deploy Docker containers using Kubernetes",
+          "date": "2024-03-15",
+          "title": "DevOps Task",
+          "id": "2"
+        },
+        {
+          "question": "Automate server provisioning with Ansible",
+          "date": "2024-03-14",
+          "title": "DevOps Task",
+          "id": "3"
+        },
+        {
+          "question": "Monitor system health using Prometheus and Grafana",
+          "date": "2024-03-13",
+          "title": "DevOps Task",
+          "id": "4"
+        }
+      ]
+    },
+    "error": {
+      "message": "Failed to retrieve DevOps tasks",
+      "code": 500
+    }
+  }
+  
